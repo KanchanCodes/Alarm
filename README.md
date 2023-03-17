@@ -1,2 +1,3 @@
-# Alarm
-Alarm-Clock
+
+> ## Checkout the Website [Alarm](https://kanchancodes.github.io/Alarm/)
+
